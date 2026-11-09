@@ -1,0 +1,4 @@
+En esta carpeta estaran todos los sprites (texturas) que usara el juego. Personaje, mutantes, recolectables, escenarios, etc.
+
+Tienen que ser archivos png con nombres especificos para que el codigo sepa cuales usar,
+para mayor facilidad use el programa LibreSprite.
